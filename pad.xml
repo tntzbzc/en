@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML_DIZ_INFO>
+  <MASTER_PAD_VERSION_INFO>
+    <MASTER_PAD_VERSION>3.11</MASTER_PAD_VERSION>
+    <MASTER_PAD_EDITOR>PADGen 3.1.1.50 http://www.padgen.org</MASTER_PAD_EDITOR>
+    <MASTER_PAD_INFO>Portable Application Description, or PAD for short, is a data set that is used by shareware authors to disseminate information to anyone interested in their software products. To find out more go to http://pad.asp-software.org</MASTER_PAD_INFO>
+  </MASTER_PAD_VERSION_INFO>
+  <Company_Info>
+    <Company_Name>EJIE Technology</Company_Name>
+    <Address_1>Fuzhou, China</Address_1>
+    <Address_2></Address_2>
+    <City_Town>Fuzhou</City_Town>
+    <State_Province>Fujian</State_Province>
+    <Zip_Postal_Code>350000</Zip_Postal_Code>
+    <Country>China</Country>
+    <Company_WebSite_URL>http://ejie.me</Company_WebSite_URL>
+    <Contact_Info>
+      <Contact_First_Name>Clover</Contact_First_Name>
+      <Contact_Last_Name>Software</Contact_Last_Name>
+      <Contact_Email>achermao@gmail.com</Contact_Email>
+      <Author_First_Name>Clover</Author_First_Name>
+      <Author_Last_Name>Software</Author_Last_Name>
+      <Author_Email>achermao@gmail.com</Author_Email>
+    </Contact_Info>
+    <Support_Info>
+      <Sales_Email>achermao@gmail.com</Sales_Email>
+      <Support_Email>achermao@gmail.com</Support_Email>
+      <General_Email>achermao@gmail.com</General_Email>
+      <Sales_Phone></Sales_Phone>
+      <Support_Phone></Support_Phone>
+      <General_Phone></General_Phone>
+      <Fax_Phone></Fax_Phone>
+    </Support_Info>
+  </Company_Info>
+  <Program_Info>
+    <Program_Name>Clover</Program_Name>
+    <Program_Version>3.0.406</Program_Version>
+    <Program_Release_Month>01</Program_Release_Month>
+    <Program_Release_Day>26</Program_Release_Day>
+    <Program_Release_Year>2014</Program_Release_Year>
+    <Program_Cost_Dollars>0</Program_Cost_Dollars>
+    <Program_Cost_Other_Code></Program_Cost_Other_Code>
+    <Program_Cost_Other></Program_Cost_Other>
+    <Program_Type>Freeware</Program_Type>
+    <Program_Release_Status>Major Update</Program_Release_Status>
+    <Program_Install_Support>Install and Uninstall</Program_Install_Support>
+    <Program_OS_Support>WinXP,WinVista,WinVista x64,Win7 x32,Win7 x64,Win8 x32,Win8 x64</Program_OS_Support>
+    <Program_Language>English,Abkhazian,Afar,Afrikaans,Albanian,Amharic,Arabic,Armenian,Assamese,Aymara,Azerbaijani,Bashkir,Basque,Bengali,Bhutani,Bihari,Bislama,Breton,Bulgarian,Burmese,Byelorussian,Cambodian,Catalan,Chinese,ChineseSimplified,ChineseTraditional,Corsican,Croatian,Czech,Danish,Dutch,Esperanto,Estonian,Faeroese,Fiji,Finnish,French,Frisian,Gaelic,Galician,Georgian,German,Greek,Greenlandic,Guarani,Gujarati,Hausa,Hebrew,Hindi,Hungarian,Icelandic,Indonesian,Interlingua,Interlingue,Inupiak,Irish,Italian,Japanese,Javanese,Kannada,Kashmiri,Kazakh,Kinyarwanda,Kirghiz,Kirundi,Korean,Kurdish,Laothian,Latin,Latvian,Lingala,Lithuanian,Macedonian,Malagasy,Malay,Malayalam,Maltese,Maori,Marathi,Moldavian,Mongolian,Nauru,Nepali,Norwegian,Occitan,Oriya,Oromo,Other,Pashto,Persian,Polish,Portuguese,Punjabi,Quechua,Rhaeto-Romance,Romanian,Russian,Samoan,Sangro,Sanskrit,Serbian,Serbo-Croatian,Sesotho,Setswana,Shona,Sindhi,Singhalese,Siswati,Slovak,Slovenian,Somali,Spanish,Sudanese,Swahili,Swedish,Tagalog,Tajik,Tamil,Tatar,Telugu,Thai,Tibetan,Tigrinya,Tonga,Tsonga,Turkish,Turkmen,Twi,Ukrainian,Urdu,Uzbek,Vietnamese,Volapuk,Welsh,Wolof,Xhosa,Yiddish,Yoruba,Zulu</Program_Language>
+    <Program_Change_Info>Add session restore feature. Middle-click to open new tab. Fixed some important bugs. </Program_Change_Info>
+    <Program_Specific_Category></Program_Specific_Category>
+    <Program_Category_Class>File Managers</Program_Category_Class>
+    <Program_Categories>Tweak::System Tweak, File Managers, Utilities :: Miscellaneous</Program_Categories>
+    <Program_System_Requirements>1024 MB RAM, Intel or compativle processor, administrator priviledges</Program_System_Requirements>
+    <Limitations>No limitations</Limitations>
+    <Awards></Awards>
+    <File_Info>
+      <File_Size_Bytes>2627477</File_Size_Bytes>
+      <File_Size_K>2627</File_Size_K>
+      <File_Size_MB>2.50</File_Size_MB>
+      <Filename_Versioned></Filename_Versioned>
+      <Filename_Previous></Filename_Previous>
+      <Filename_Generic></Filename_Generic>
+      <Filename_Long></Filename_Long>
+    </File_Info>
+    <Expire_Info>
+      <Has_Expire_Info>N</Has_Expire_Info>
+      <Expire_Based_On>Days</Expire_Based_On>
+      <Expire_Count></Expire_Count>
+      <Expire_Other_Info></Expire_Other_Info>
+      <Expire_Month></Expire_Month>
+      <Expire_Day></Expire_Day>
+      <Expire_Year></Expire_Year>
+    </Expire_Info>
+  </Program_Info>
+  <Program_Descriptions>
+    <English>
+      <Keywords>clover, tab explorer</Keywords>
+      <Char_Desc_45>Add tabs to your Windows Explorer</Char_Desc_45>
+      <Char_Desc_80>Free File Manager - Add tabs to your Windows Explorer</Char_Desc_80>
+      <Char_Desc_250>Clover is an extension of the Windows Explorer, to add multi-tab functionality similar to Google Chrome browser. After install Clover, you will be able to open multiple folders within the same window, and you can also add folder bookmarks.</Char_Desc_250>
+      <Char_Desc_450>Clover is an extension of the Windows Explorer, to add multi-tab functionality similar to Google Chrome browser. After install Clover, you will be able to open multiple folders within the same window, and you can also add folder bookmarks.</Char_Desc_450>
+      <Char_Desc_2000>Clover is an extension of the Windows Explorer, to add multi-tab functionality similar to Google Chrome browser. After install Clover, you will be able to open multiple folders within the same window, and you can also add folder bookmarks.</Char_Desc_2000>
+    </English>
+    <Chinese>
+    </Chinese>
+  </Program_Descriptions>
+  <Web_Info>
+    <Application_URLs>
+      <Application_Info_URL>http://ejie.me</Application_Info_URL>
+      <Application_Screenshot_URL>http://ejie.me/images/clover.jpg</Application_Screenshot_URL>
+      <Application_Icon_URL>http://ejie.me/images/clover.ico</Application_Icon_URL>
+      <Application_XML_File_URL>http://ejie.me/pad.xml</Application_XML_File_URL>
+      <Application_Order_URL>http://ejie.me</Application_Order_URL>
+    </Application_URLs>
+    <Download_URLs>
+      <Primary_Download_URL>http://ejie.me/download</Primary_Download_URL>
+      <Secondary_Download_URL></Secondary_Download_URL>
+      <Additional_Download_URL_1></Additional_Download_URL_1>
+      <Additional_Download_URL_2></Additional_Download_URL_2>
+    </Download_URLs>
+  </Web_Info>
+  <Press_Release>
+    <Keywords>clover, tab explorer, file managers</Keywords>
+    <Related_URL>http://ejie.me</Related_URL>
+    <Summary>Clover Brings Chrome-Style Tabs to Windows Explorer.</Summary>
+    <Headline>Clover Brings Chrome-Style Tabs to Windows Explorer.</Headline>
+    <Press_Release>Clover is an extension of the Windows Explorer, to add multi-tab functionality similar to Google Chrome browser. After install Clover, you will be able to open multiple folders within the same window, and you can also add folder bookmarks.</Press_Release>
+    <Press_Release_Plain></Press_Release_Plain>
+  </Press_Release>
+  <Permissions>
+    <Distribution_Permissions>No limitations</Distribution_Permissions>
+    <EULA>No EULA</EULA>
+  </Permissions>
+</XML_DIZ_INFO>

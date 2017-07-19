@@ -1,0 +1,42 @@
+---
+layout: default
+---
+
+<div class="span11">
+  <article id="post">
+    <header class="row">
+      <div class="posted-on" >
+        <time datetime="{{ page.date | date:'%Y-%m-%d' }}" pubdate="pubdate">{{ page.date | date:"%B %d, %Y" }}</time>
+        
+      </div>
+
+      <h1 class="title">
+        <a href="{{ page.url }}">{{ page.title }}</a>
+      </h1>
+
+    </header>
+
+    <div id="post-body">
+      {% if page.image %}
+        <div class="post-image span4">
+          <img src="{{ page.image.url }}" title="{{ page.image.title }}" alt="{{ page.image.alt }}" data-attribution="{{ page.image.attribution }}" data-attribution-url="{{ page.image.attribution-url }}" />
+        </div>
+      {% endif %}
+
+      {{ content }}
+    </div>
+
+		{% include sharing.html %}
+		<script id='flattrbtn'>(function(i){var f,s=document.getElementById(i);f=document.createElement('iframe');f.src='//api.flattr.com/button/view/?uid=achermao&button=compact&url='+encodeURIComponent(document.URL);f.title='Flattr';f.height=20;f.width=110;f.style.borderWidth=0;s.parentNode.insertBefore(f,s);})('flattrbtn');</script>
+
+<script type="text/javascript" charset="utf-8">
+	var disqus_url = "http://ejie.me{{page.url}}";
+</script>
+    <footer>
+      {% include related.html %}
+      {% include comments.html %}
+    </footer>
+  </article>
+</div>
+
+{% include sidebar.html %}

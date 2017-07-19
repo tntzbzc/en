@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }} | 易捷科技 EJIE Technology</title>
+    <meta name="description" content="{{ page.meta.description }}">
+    <meta name="keywords"    content="{{ page.meta.keywords }}">
+
+    <link href='http://fonts.googleapis.com/css?family=Lato:300,400|Linden+Hill' rel='stylesheet' type='text/css'>
+    <link href="/css/screen.css" media="screen, projection" rel="stylesheet" type="text/css" />
+    <link href="/css/print.css" media="print" rel="stylesheet" type="text/css" />
+    <!--[if IE]>
+        <link href="/css/ie.css" media="screen, projection" rel="stylesheet" type="text/css" />
+    <![endif]-->
+
+    <!-- Le HTML5 shim, for IE6-8 support of HTML elements -->
+    <!--[if lt IE 9]>
+      <script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+		<script type="text/javascript" src="js/simpletabs_1.3.js"></script>
+		<link rel='stylesheet' href="css/simpletabs.css">
+
+		<!--<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.0/jquery.min.js"></script>-->
+    {% include analytics.html %}
+		<!--<script type="text/javascript">var switchTo5x=false;</script>-->
+		<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+		<script type="text/javascript">stLight.options({publisher:'c6b1564e-b45d-464e-972d-b94b9285a27e'});</script>
+  </head>
+
+  <body>
+    <div class="container">
+      <header class="row">
+        <div id="title" class="span7">
+          <a href="/" title="EJIE Technology">EJIE Technology</a>
+        </div>
+
+        <div class="span7">{% include menu.html %}</div>
+
+				<div class="contact span2">
+					<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=174645118@qq.com&item_name=Help%20Clover&no_shipping=1&return=http://ejie.me">
+						<img src="/images/paypal.gif" alt="Help Clover" />
+					</a>
+				</div>
+      </header>
+
+			<!--<script>u_key='343471'</script>-->
+			<!--<script src="http://j.union.ijinshan.com/c.js"></script>-->
+			
+      <div id="content" class="row">
+        {{ content }}
+      </div>
+
+      <footer>
+				{% include links.html %}
+
+				<div id="content" class="row">
+					<p><small > © 2013 易捷科技 EJIE Technology&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspOfficial mailbox : ClovSH128@163.com</small><p>
+				</div>
+
+      </footer>
+    </div>
+
+    <script src="/js/bootstrap-dropdown.js"></script>
+    <script src="/js/application.js"></script>
+  </body>
+</html>
